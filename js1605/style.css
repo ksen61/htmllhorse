@@ -1,0 +1,71 @@
+header{
+    background-color:rgb(95, 218, 95);
+    height: 70px;
+}
+.title1{
+    text-justify: auto;
+    color: white;
+}
+.container1{
+    margin:15px;
+}
+.polos{
+    color: #000000;
+    width: 90%;
+    opacity: 8;
+    margin: auto;
+}
+.kar{
+    width: 50px;
+}
+body{
+    background-color: rgb(255, 252, 234);
+}
+.kar1{
+    width: 350px;
+    margin: 0px 0px 0px 160px;
+}
+.kar2{
+    width: 350px;
+    margin: 0px 0px 0px 160px;
+}
+.col-md-4-{
+    display: flex;
+    align-items: center;
+    margin: 0px 10px 0px 0px;
+    background-color: yellow;
+    width: 150px;
+    height: 40px;
+    justify-content: center;
+    font-size: 19px;
+}
+.knop{
+    display: flex;
+    justify-content: center;
+}
+.kn{
+    width: 150px;
+    height: 80px;
+    margin: 0px 0px 0px 150px;
+    font-size: 20px;
+    background-color: rgb(131, 249, 131);
+}
+.kn1{
+    width: 110px;
+    height: 80px;
+    font-size: 20px;
+    background-color: red;
+}
+.derev{
+    background-image: url('image/forest.png');
+    background-repeat: repeat-x;
+    background-size: contain;
+    width: 100%;
+    height: 200px; 
+    margin-left: 1px;
+   
+}
+.text4{
+    line-height: 25px;
+    text-align: center;
+}
